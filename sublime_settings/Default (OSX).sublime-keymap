@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+	{ "keys": ["super+["], "command": "jump_back" },
+	{ "keys": ["super+]"], "command": "jump_forward" },
+	{ "keys": ["shift+super+down"], "command": "swap_line_down" },
+	{ "keys": ["shift+super+up"], "command": "swap_line_up" }
+]

@@ -1,0 +1,68 @@
+{
+	"binary_file_patterns":
+	[
+		"dist/*",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.log",
+		"*.sh",
+		".DS_Store",
+		".jshintrc",
+		".jsbeautifyrc",
+		".gitignore",
+		".editorconfig",
+		".bowerrc",
+		"*.md",
+		"version",
+		"*.pl",
+		"*.config"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".grunt",
+		".sass-cache",
+		".tmp",
+		"deb",
+		"node_modules",
+		"nodejs",
+		"servers",
+		"dist",
+		".idea",
+		"typings",
+		"bin"
+	],
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"EditorConfig",
+		"JavaScript",
+		"Monokai Extended",
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_full_path": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
