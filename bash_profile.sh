@@ -26,3 +26,6 @@ fi
 
 PS1="$PS1_PREFIX\D{%F %T}$ "
 #PS1="\[\033[0;92m\]\D{%F %T}$ \[\033[0m\]"
+
+export BASH_SILENCE_DEPRECATION_WARNING=1
+
