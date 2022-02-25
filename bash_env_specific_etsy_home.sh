@@ -11,6 +11,5 @@ COLOR_GREY="\[\033[0;37m\]"
 COLOR_RESET="\[\033[0m\]"
 PS1_PREFIX="${COLOR_GREY}[local] ${COLOR_RESET}"
 
-alias grebasem='git fetch origin master:master && git rebase master'
+alias grebasem='git fetch origin main:main && git rebase main'
 alias allcommits="gl --author=$(git config user.name)"
-
